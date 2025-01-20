@@ -25,6 +25,7 @@ function BasicExample() {
       <Container>
         <Navbar.Brand href="/" className="fw-bolder fs-2 d-flex align-items-center">
           Sticky App
+          
           <span className="p-2">
             <LuNotebookPen />
           </span>
